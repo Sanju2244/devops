@@ -1,2 +1,3 @@
-#!/bin/sh
-echo "HELLO WORLD"
+ECHO OFF
+ECHO Hello World
+PAUSE
